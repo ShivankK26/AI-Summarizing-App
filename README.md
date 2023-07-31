@@ -18,7 +18,7 @@ The Tech Stacks used are:
 
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwindcss,react,js,gpt" />
+    <img src="https://skillicons.dev/icons?i=tailwindcss,react,js,redux" />
 </a>
 </div>
 
